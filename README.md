@@ -1,30 +1,30 @@
 # 📘 IOT-Project
 
-Selamat datang di repository **IOT-Project**! Repository ini berisi kumpulan modul pembelajaran tentang project IoT khususnya menggunakan mikrokontroler ESP32. Selain berisi modul, repository ini juga menyimpan roadmap project yang akan dikerjakan, sedang dikerjakan, dan selesai dikerjakan.
+Selamat datang di **IOT-Project**! 🎉 Repository ini berisi modul pembelajaran IoT dengan mikrokontroler ESP32, lengkap dengan roadmap project dari tahap awal hingga akhir. 🚀
 
-> **Update Terbaru**: Pembaruan akan diumumkan di bagian [Pembaruan Terbaru](#pembaruan-terbaru).
+> **Update Terbaru:** Pembaruan terbaru akan diumumkan di [Pembaruan Terbaru](#pembaruan-terbaru).
 
 ---
 
 ## 🔎 Daftar Isi
 - [Tentang Repository](#tentang-repository)
 - [Modul Pembelajaran](#modul-pembelajaran)
-- [Roadmap](#roadmap)
-  - [Project yang Akan Dikerjakan](#project-yang-akan-dikerjakan)
-  - [Project yang Sedang Dikerjakan](#project-yang-sedang-dikerjakan)
-  - [Project yang Selesai Dikerjakan](#project-yang-selesai-dikerjakan)
+- [Roadmap Project](#roadmap-project)
+  - [📋 Weekly Activity](#weekly-activity)
+  - [🔄 Project yang Sedang Dikerjakan](#project-yang-sedang-dikerjakan)
+  - [✅ Project yang Selesai Dikerjakan](#project-yang-selesai-dikerjakan)
 - [Pembaruan Terbaru](#pembaruan-terbaru)
 - [Cara Berkontribusi](#cara-berkontribusi)
 
 ---
 
 ## 📜 Tentang Repository
-Repository ini bertujuan untuk membantu siapa saja yang ingin belajar dasar hingga lanjutan dalam dunia elektronik dan IoT. Modul-modul disusun dari konsep dasar hingga aplikasi kompleks.
+Repository ini dirancang untuk membantu siapa saja belajar elektronik dan IoT, mulai dari dasar hingga aplikasi lanjutan. Setiap modul diatur secara berurutan untuk mempermudah pemahaman.
 
 ## 📝 Modul Pembelajaran
-| Modul | Deskripsi | Tingkat |
-|-------|-----------|---------|
-| [1. Dasar Elektronika](modules/dasar-elektronika.md) | Memahami konsep dasar, seperti tegangan, arus, dan hukum Ohm | Pemula |
+| 📘 Modul | 📄 Deskripsi | 🎓 Tingkat |
+|----------|-------------|------------|
+| [1. Dasar Elektronika](modules/dasar-elektronika.md) | Memahami konsep dasar seperti tegangan, arus, dan hukum Ohm | Pemula |
 | [2. Komponen Elektronik](modules/komponen-elektronik.md) | Pengenalan resistor, kapasitor, transistor, dan komponen lainnya | Pemula |
 | [3. Rangkaian Seri & Paralel](modules/rangkaian-seri-paralel.md) | Pembahasan tentang rangkaian dasar dan implementasinya | Menengah |
 | [4. Penguat Transistor](modules/penguat-transistor.md) | Prinsip dasar penguat dengan transistor dan cara kerjanya | Menengah |
@@ -33,60 +33,63 @@ Repository ini bertujuan untuk membantu siapa saja yang ingin belajar dasar hing
 
 ---
 
-## 🚀 Roadmap
+## 🚀 Roadmap Project
 
 ### 📋 Weekly Activity
-| Minggu | Kegiatan                                       | Deskripsi                                                                                  |
-|--------|------------------------------------------------|--------------------------------------------------------------------------------------------|
-| 1      | Mencari Referensi                              | Mengumpulkan referensi tentang proyek IoT yang akan dikerjakan, termasuk sensor dan modul. |
-| 2      | Membuat Rangkaian di Breadboard                | Membuat rangkaian dasar menggunakan breadboard untuk menguji fungsi dasar setiap komponen. |
-| 3      | Membuat Skematik di Eagle                      | Mendesain skematik rangkaian di software Eagle untuk mendapatkan tampilan komponen yang terhubung. |
-| 4      | Desain PCB                                     | Mendesain tata letak PCB berdasarkan skematik yang telah dibuat.                           |
-| 5      | Desain 3D                                      | Membuat desain 3D dari PCB untuk melihat tampilan fisik komponen pada board.               |
-| 6      | Produksi PCB                                   | Mengirim desain PCB ke layanan produksi atau melakukan etching secara manual.              |
-| 7      | Pengujian Awal                                 | Menguji PCB yang sudah diproduksi untuk memastikan semua komponen bekerja dengan baik.     |
-| 8      | Integrasi Sensor dan Mikrokontroler            | Mengintegrasikan sensor dan mikrokontroler pada PCB yang telah diuji.                      |
-| 9      | Pengembangan Firmware                          | Menulis dan menguji kode yang diperlukan untuk mikrokontroler ESP32 dalam proyek ini.      |
-| 10     | Pengujian dan Kalibrasi                        | Melakukan pengujian penuh serta kalibrasi untuk memastikan akurasi dan performa sensor.    |
-| 11     | Pengembangan Dashboard IoT                     | Membuat tampilan dashboard untuk memonitor data sensor secara real-time.                   |
-| 12     | Dokumentasi Proyek                             | Membuat dokumentasi lengkap mengenai skematik, firmware, dan panduan penggunaan.           |
-| 13     | Finalisasi dan Publikasi                       | Menyelesaikan proyek dan mempublikasikan hasilnya di repository serta memperbarui README.  |
+Setiap project mengikuti jadwal mingguan yang terstruktur untuk mempermudah pengelolaan waktu dan progres. ⚙️
+
+| 📆 Minggu | 📝 Kegiatan                                       | 📌 Deskripsi                                                                                  |
+|-----------|---------------------------------------------------|----------------------------------------------------------------------------------------------|
+| 1         | 🔍 **Mencari Referensi**                          | Mengumpulkan referensi tentang project IoT, sensor, dan modul yang dibutuhkan.               |
+| 2         | 🛠️ **Membuat Rangkaian di Breadboard**            | Membuat rangkaian dasar di breadboard untuk uji fungsi dasar setiap komponen.                |
+| 3         | 📐 **Membuat Skematik di Eagle**                  | Mendesain skematik di software Eagle untuk menata komponen dan koneksi.                      |
+| 4         | 🖼️ **Desain PCB**                                 | Membuat tata letak PCB dari skematik yang telah disusun.                                     |
+| 5         | 🖌️ **Desain 3D**                                  | Membuat desain 3D PCB untuk memvisualisasi tata letak komponen pada board.                   |
+| 6         | 🏭 **Produksi PCB**                               | Mengirim desain PCB untuk produksi atau melakukan proses etching manual.                     |
+| 7         | 🧪 **Pengujian Awal**                             | Menguji PCB untuk memastikan semua komponen berfungsi baik.                                  |
+| 8         | 🤖 **Integrasi Sensor dan Mikrokontroler**        | Mengintegrasikan sensor dan mikrokontroler pada PCB yang telah diuji.                        |
+| 9         | 💻 **Pengembangan Firmware**                      | Menulis dan menguji firmware ESP32 untuk project ini.                                       |
+| 10        | 🔧 **Pengujian dan Kalibrasi**                    | Melakukan pengujian penuh serta kalibrasi untuk memastikan performa dan akurasi sensor.      |
+| 11        | 📊 **Pengembangan Dashboard IoT**                 | Membuat tampilan dashboard untuk memonitor data sensor secara real-time.                     |
+| 12        | 📑 **Dokumentasi Proyek**                         | Membuat dokumentasi lengkap tentang skematik, firmware, dan panduan penggunaan.              |
+| 13        | 🎉 **Finalisasi dan Publikasi**                   | Menyelesaikan project, mempublikasikan hasilnya di repository, dan memperbarui README.       |
 
 ---
 
-> Setiap kegiatan dapat diperbarui sesuai kebutuhan atau kompleksitas project. Setiap minggu dilakukan evaluasi dan perbaikan jika diperlukan.
+> Catatan: Tahapan dapat disesuaikan dengan kebutuhan dan kompleksitas project. Evaluasi mingguan dilakukan untuk memastikan progres tetap sesuai jadwal.
 
 ### 🔄 Project yang Sedang Dikerjakan
-**🔄 Pengukuran Kualitas Udara dengan Sensor MQ135**  
-  Saat ini sedang dalam tahap pengembangan firmware untuk pengukuran kualitas udara menggunakan ESP32 dan menampilkan data di dashboard IoT.
-**🔄 Smart Lighting dengan Sensor Cahaya**  
-  Sedang dalam proses integrasi sensor cahaya untuk mengontrol lampu otomatis berdasarkan intensitas cahaya di ruangan.
+- **🔄 Pengukuran Kualitas Udara dengan Sensor MQ135**  
+  Tahap: Pengembangan firmware untuk pengukuran kualitas udara menggunakan ESP32, menampilkan data di dashboard IoT.
+- **🔄 Smart Lighting dengan Sensor Cahaya**  
+  Tahap: Integrasi sensor cahaya untuk kontrol otomatis lampu berdasarkan intensitas cahaya ruangan.
 
 ### ✅ Project yang Selesai Dikerjakan
-**✅ Monitoring Jarak dengan Sensor Ultrasonik**  
-  Menampilkan jarak yang terukur oleh sensor ultrasonik HC-SR04 pada dashboard online.
-**✅ Kendali LED melalui Aplikasi Mobile**  
-  Menggunakan ESP32 untuk mengontrol LED dari jarak jauh melalui aplikasi IoT sederhana.
+- **✅ Monitoring Jarak dengan Sensor Ultrasonik**  
+  Menampilkan jarak yang terukur oleh sensor HC-SR04 pada dashboard online.
+- **✅ Kendali LED melalui Aplikasi Mobile**  
+  Menggunakan ESP32 untuk mengontrol LED dari jarak jauh melalui aplikasi IoT.
 
 ---
 
 ## 📆 Pembaruan Terbaru
-*Catatan pembaruan untuk setiap modul dan project:*
+*Log pembaruan setiap modul dan project:*
 
-- **[2024-10-28]**: Modul 3 - Rangkaian Seri & Paralel diperbarui dengan contoh tambahan.
+- **[2024-10-28]**: *Rangkaian Seri & Paralel* diperbarui dengan contoh tambahan.
 - **[2024-10-20]**: Modul baru ditambahkan - *Sensor dan Aktuator*.
-- **[2024-10-10]**: Modul dasar elektronik mendapatkan penjelasan tambahan tentang hukum Ohm dan latihan soal.
+- **[2024-10-10]**: Modul dasar elektronik diperbarui dengan penjelasan tentang hukum Ohm dan latihan soal.
 
 ---
 
 ## 🤝 Cara Berkontribusi
-Kami mengundang kontribusi dari komunitas! Jika Anda ingin menambahkan modul atau project baru, memperbarui konten, atau menemukan kesalahan, silakan buat *pull request* atau buka *issue*.
+Kami mengundang kontribusi dari komunitas! Jika ingin menambahkan modul atau project, memperbaiki konten, atau menemukan kesalahan, silakan buat *pull request* atau *issue*.
 
-**Panduan Kontribusi**:
-1. Fork repository ini.
-2. Buat *branch* baru untuk perubahan Anda.
-3. Buat *pull request* setelah selesai.
+**Langkah Berkontribusi**:
+1. **Fork** repository ini.
+2. Buat **branch baru** untuk perubahan Anda.
+3. Setelah selesai, buat **pull request**.
 
 ---
 
-Terima kasih telah mengunjungi repository ini! Kami harap modul-modul dan project yang tersedia dapat membantu Anda dalam belajar dan mengembangkan project IoT. 😊
+Terima kasih telah mengunjungi repository ini! Kami harap modul dan project ini bermanfaat dalam pembelajaran dan pengembangan project IoT Anda. 😊
+
