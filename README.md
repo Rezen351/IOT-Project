@@ -35,24 +35,37 @@ Repository ini bertujuan untuk membantu siapa saja yang ingin belajar dasar hing
 
 ## 🚀 Roadmap
 
-### 📋 Project yang Akan Dikerjakan
-- [ ] **📋 Sistem Pemantauan Suhu Jarak Jauh**  
-  Rangkaian dan kode untuk pemantauan suhu menggunakan sensor DS18B20, ESP32, dan MQTT.
-- [ ] **📋 Kontrol Kelembapan Tanah Otomatis**  
-  Menggunakan sensor kelembapan tanah dan relay untuk kontrol otomatis pada pompa air.
-- [ ] **📋 Sistem Keamanan Rumah dengan Pendeteksi Gerak**  
-  Sistem berbasis PIR sensor untuk mendeteksi gerakan dengan notifikasi melalui aplikasi.
+### 📋 Weekly Activity
+| Minggu | Kegiatan                                       | Deskripsi                                                                                  |
+|--------|------------------------------------------------|--------------------------------------------------------------------------------------------|
+| 1      | Mencari Referensi                              | Mengumpulkan referensi tentang proyek IoT yang akan dikerjakan, termasuk sensor dan modul. |
+| 2      | Membuat Rangkaian di Breadboard                | Membuat rangkaian dasar menggunakan breadboard untuk menguji fungsi dasar setiap komponen. |
+| 3      | Membuat Skematik di Eagle                      | Mendesain skematik rangkaian di software Eagle untuk mendapatkan tampilan komponen yang terhubung. |
+| 4      | Desain PCB                                     | Mendesain tata letak PCB berdasarkan skematik yang telah dibuat.                           |
+| 5      | Desain 3D                                      | Membuat desain 3D dari PCB untuk melihat tampilan fisik komponen pada board.               |
+| 6      | Produksi PCB                                   | Mengirim desain PCB ke layanan produksi atau melakukan etching secara manual.              |
+| 7      | Pengujian Awal                                 | Menguji PCB yang sudah diproduksi untuk memastikan semua komponen bekerja dengan baik.     |
+| 8      | Integrasi Sensor dan Mikrokontroler            | Mengintegrasikan sensor dan mikrokontroler pada PCB yang telah diuji.                      |
+| 9      | Pengembangan Firmware                          | Menulis dan menguji kode yang diperlukan untuk mikrokontroler ESP32 dalam proyek ini.      |
+| 10     | Pengujian dan Kalibrasi                        | Melakukan pengujian penuh serta kalibrasi untuk memastikan akurasi dan performa sensor.    |
+| 11     | Pengembangan Dashboard IoT                     | Membuat tampilan dashboard untuk memonitor data sensor secara real-time.                   |
+| 12     | Dokumentasi Proyek                             | Membuat dokumentasi lengkap mengenai skematik, firmware, dan panduan penggunaan.           |
+| 13     | Finalisasi dan Publikasi                       | Menyelesaikan proyek dan mempublikasikan hasilnya di repository serta memperbarui README.  |
+
+---
+
+> Setiap kegiatan dapat diperbarui sesuai kebutuhan atau kompleksitas project. Setiap minggu dilakukan evaluasi dan perbaikan jika diperlukan.
 
 ### 🔄 Project yang Sedang Dikerjakan
-- [ ] **🔄 Pengukuran Kualitas Udara dengan Sensor MQ135**  
+**🔄 Pengukuran Kualitas Udara dengan Sensor MQ135**  
   Saat ini sedang dalam tahap pengembangan firmware untuk pengukuran kualitas udara menggunakan ESP32 dan menampilkan data di dashboard IoT.
-- [ ] **🔄 Smart Lighting dengan Sensor Cahaya**  
+**🔄 Smart Lighting dengan Sensor Cahaya**  
   Sedang dalam proses integrasi sensor cahaya untuk mengontrol lampu otomatis berdasarkan intensitas cahaya di ruangan.
 
 ### ✅ Project yang Selesai Dikerjakan
-- [x] **✅ Monitoring Jarak dengan Sensor Ultrasonik**  
+**✅ Monitoring Jarak dengan Sensor Ultrasonik**  
   Menampilkan jarak yang terukur oleh sensor ultrasonik HC-SR04 pada dashboard online.
-- [x] **✅ Kendali LED melalui Aplikasi Mobile**  
+**✅ Kendali LED melalui Aplikasi Mobile**  
   Menggunakan ESP32 untuk mengontrol LED dari jarak jauh melalui aplikasi IoT sederhana.
 
 ---
