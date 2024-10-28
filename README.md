@@ -3,7 +3,7 @@
 Selamat datang di **IOT-Project**! 🎉 Repository ini berisi modul pembelajaran IoT dengan mikrokontroler ESP32, lengkap dengan roadmap project dari tahap awal hingga akhir. 🚀
 
 > **Update Terbaru:** Pembaruan terbaru akan diumumkan di [Pembaruan Terbaru](#pembaruan-terbaru).
-
+> **Info** Panduan penggunaan github ada di [Modul 0 Github](https://github.com/Rezen351/IOT-Project/tree/main/modules/Modul%200%20Github).
 ---
 
 ## 🔎 Daftar Isi
