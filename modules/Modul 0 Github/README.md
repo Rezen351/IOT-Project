@@ -58,15 +58,20 @@ git push origin nama_branch
 ### 6. **Pull Request dan Merge**
   Di halaman repo GitHub, buka Pull Requests buat bikin PR baru.
   Minta review kalau perlu, dan kalau udah fix tinggal merge biar kode masuk ke branch utama.
+  
 ### 7. **Otomasi dengan GitHub Actions**
   Pake fitur GitHub Actions buat otomatisin berbagai tugas, kayak testing kode, build, sampai deployment. Bisa kamu setup dengan bikin file .yml di dalam folder .github/workflows.
+  
 ---
+
 ## ⚡️ Tips Jagoan Pake GitHub
 Gunakan Pesan Commit yang Bikin Orang Ngerti: Jangan cuma “update” doang, kasih penjelasan biar orang tau perubahan apa yang terjadi.
 Manfaatin Branch untuk Eksperimen Fitur Baru: Setiap fitur baru, coba di branch sendiri biar kode utama tetep bersih.
 Pakai Pull Request Buat Review Kode: Biar orang lain bisa ngecek dan kasih saran sebelum gabungin kode ke main.
 Gunakan Issues Buat Track Progress: Bisa buat checklist, ide, atau buat diskusi hal-hal penting.
+
 ---
+
 ## 🌟 Manfaat Pake GitHub
 Bisa Kolaborasi Bareng-Bareng: Ngoding bareng tim atau kontribusi ke project orang lain jadi lebih gampang.
 Sistem Versi yang Teratur: Semua perubahan bisa dilacak, jadi nggak takut kode hilang atau keliru.
