@@ -55,7 +55,7 @@ Setiap project mengikuti jadwal mingguan yang terstruktur untuk mempermudah peng
 ## 📆 Pembaruan Terbaru
 *Log pembaruan setiap modul dan project:*
 
-- **[2024-10-28]**: *Rangkaian Seri & Paralel* diperbarui dengan contoh tambahan.
+- **[2024-10-28]**: *Rangkaian Digital I/O Isolation* Terdapat gambar skematik rangkaian Digital I/O dengan menggunakan optocoupler silahkan dipelajari.
 
 ---
 
