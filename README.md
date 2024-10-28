@@ -10,11 +10,11 @@ Selamat datang di **IOT-Project**! 🎉 Repository ini berisi modul pembelajaran
 - [Tentang Repository](#-tentang-repository)
 - [Modul Pembelajaran](#-modul-pembelajaran)
 - [Roadmap Project](#-roadmap-project)
-  - [📋 Weekly Activity](#weekly-activity)
-  - [🔄 Project yang Sedang Dikerjakan](#project-yang-sedang-dikerjakan)
-  - [✅ Project yang Selesai Dikerjakan](#project-yang-selesai-dikerjakan)
-- [Pembaruan Terbaru](#pembaruan-terbaru)
-- [Cara Berkontribusi](#cara-berkontribusi)
+  - [📋 Weekly Activity](#-weekly-activity)
+  - [🔄 Project yang Sedang Dikerjakan](#-project-yang-sedang-dikerjakan)
+  - [✅ Project yang Selesai Dikerjakan](#-project-yang-selesai-dikerjakan)
+- [Pembaruan Terbaru](#-pembaruan-terbaru)
+- [Cara Berkontribusi](#-cara-berkontribusi)
 
 ---
 
