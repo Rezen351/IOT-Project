@@ -1,4 +1,4 @@
-# 🚀 Belajar GitHub: Panduan Asik Buat Gen Z 🚀
+# 🚀 Belajar GitHub: Panduan Asik 🚀
 
 GitHub itu seru banget buat kamu yang mau ngoding bareng-bareng atau mau nge-track perubahan kodingan dengan rapi. Ini semacam social media-nya developer! Di sini kamu bisa bareng-bareng bikin project, bagi-bagi kode, atau bahkan gabung buat kontribusi ke project open-source.
 
