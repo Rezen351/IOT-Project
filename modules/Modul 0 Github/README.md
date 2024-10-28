@@ -62,16 +62,16 @@ git push origin nama_branch
   Pake fitur GitHub Actions buat otomatisin berbagai tugas, kayak testing kode, build, sampai deployment. Bisa kamu setup dengan bikin file .yml di dalam folder .github/workflows.
 ---
 ## ⚡️ Tips Jagoan Pake GitHub
-  Gunakan Pesan Commit yang Bikin Orang Ngerti: Jangan cuma “update” doang, kasih penjelasan biar orang tau perubahan apa yang terjadi.
-  Manfaatin Branch untuk Eksperimen Fitur Baru: Setiap fitur baru, coba di branch sendiri biar kode utama tetep bersih.
-  Pakai Pull Request Buat Review Kode: Biar orang lain bisa ngecek dan kasih saran sebelum gabungin kode ke main.
-  Gunakan Issues Buat Track Progress: Bisa buat checklist, ide, atau buat diskusi hal-hal penting.
+Gunakan Pesan Commit yang Bikin Orang Ngerti: Jangan cuma “update” doang, kasih penjelasan biar orang tau perubahan apa yang terjadi.
+Manfaatin Branch untuk Eksperimen Fitur Baru: Setiap fitur baru, coba di branch sendiri biar kode utama tetep bersih.
+Pakai Pull Request Buat Review Kode: Biar orang lain bisa ngecek dan kasih saran sebelum gabungin kode ke main.
+Gunakan Issues Buat Track Progress: Bisa buat checklist, ide, atau buat diskusi hal-hal penting.
 ---
 ## 🌟 Manfaat Pake GitHub
-  Bisa Kolaborasi Bareng-Bareng: Ngoding bareng tim atau kontribusi ke project orang lain jadi lebih gampang.
-  Sistem Versi yang Teratur: Semua perubahan bisa dilacak, jadi nggak takut kode hilang atau keliru.
-  Otomatisasi dengan GitHub Actions: Dari testing sampai deploy bisa otomatis, tinggal setup aja!
-  Dukungan Open Source: Buat kamu yang mau share project ke dunia atau kontribusi di project keren lainnya.
-  Nah, itu dia dasar-dasar GitHub yang wajib kamu tau! Semoga bisa langsung dipraktekin buat project seru kamu! 🎉
+Bisa Kolaborasi Bareng-Bareng: Ngoding bareng tim atau kontribusi ke project orang lain jadi lebih gampang.
+Sistem Versi yang Teratur: Semua perubahan bisa dilacak, jadi nggak takut kode hilang atau keliru.
+Otomatisasi dengan GitHub Actions: Dari testing sampai deploy bisa otomatis, tinggal setup aja!
+Dukungan Open Source: Buat kamu yang mau share project ke dunia atau kontribusi di project keren lainnya.
+Nah, itu dia dasar-dasar GitHub yang wajib kamu tau! Semoga bisa langsung dipraktekin buat project seru kamu! 🎉
 
 ---
