@@ -1,6 +1,6 @@
 # 📘 IOT-Project
 
-Selamat datang di repository **IOT-Project**! Repository ini berisi kumpulan modul pembelajaran tentang project IoT khususnya menggunakan mikrokontroler ESP32. Selain berisi modul, repository ini juga menyimpan daftar project yang akan dikerjakan, sedang dikerjakan, dan selesai dikerjakan.
+Selamat datang di repository **IOT-Project**! Repository ini berisi kumpulan modul pembelajaran tentang project IoT khususnya menggunakan mikrokontroler ESP32. Selain berisi modul, repository ini juga menyimpan roadmap project yang akan dikerjakan, sedang dikerjakan, dan selesai dikerjakan.
 
 > **Update Terbaru**: Pembaruan akan diumumkan di bagian [Pembaruan Terbaru](#pembaruan-terbaru).
 
@@ -9,7 +9,7 @@ Selamat datang di repository **IOT-Project**! Repository ini berisi kumpulan mod
 ## 🔎 Daftar Isi
 - [Tentang Repository](#tentang-repository)
 - [Modul Pembelajaran](#modul-pembelajaran)
-- [To-Do List Project](#to-do-list-project)
+- [Roadmap](#roadmap)
   - [Project yang Akan Dikerjakan](#project-yang-akan-dikerjakan)
   - [Project yang Sedang Dikerjakan](#project-yang-sedang-dikerjakan)
   - [Project yang Selesai Dikerjakan](#project-yang-selesai-dikerjakan)
@@ -33,26 +33,26 @@ Repository ini bertujuan untuk membantu siapa saja yang ingin belajar dasar hing
 
 ---
 
-## ✅ To-Do List Project
+## 🚀 Roadmap
 
-### Project yang Akan Dikerjakan
-- [ ] **Sistem Pemantauan Suhu Jarak Jauh**  
+### 📋 Project yang Akan Dikerjakan
+- [ ] **📋 Sistem Pemantauan Suhu Jarak Jauh**  
   Rangkaian dan kode untuk pemantauan suhu menggunakan sensor DS18B20, ESP32, dan MQTT.
-- [ ] **Kontrol Kelembapan Tanah Otomatis**  
+- [ ] **📋 Kontrol Kelembapan Tanah Otomatis**  
   Menggunakan sensor kelembapan tanah dan relay untuk kontrol otomatis pada pompa air.
-- [ ] **Sistem Keamanan Rumah dengan Pendeteksi Gerak**  
+- [ ] **📋 Sistem Keamanan Rumah dengan Pendeteksi Gerak**  
   Sistem berbasis PIR sensor untuk mendeteksi gerakan dengan notifikasi melalui aplikasi.
 
-### Project yang Sedang Dikerjakan
-- [ ] **Pengukuran Kualitas Udara dengan Sensor MQ135**  
+### 🔄 Project yang Sedang Dikerjakan
+- [ ] **🔄 Pengukuran Kualitas Udara dengan Sensor MQ135**  
   Saat ini sedang dalam tahap pengembangan firmware untuk pengukuran kualitas udara menggunakan ESP32 dan menampilkan data di dashboard IoT.
-- [ ] **Smart Lighting dengan Sensor Cahaya**  
+- [ ] **🔄 Smart Lighting dengan Sensor Cahaya**  
   Sedang dalam proses integrasi sensor cahaya untuk mengontrol lampu otomatis berdasarkan intensitas cahaya di ruangan.
 
-### Project yang Selesai Dikerjakan
-- [x] **Monitoring Jarak dengan Sensor Ultrasonik**  
+### ✅ Project yang Selesai Dikerjakan
+- [x] **✅ Monitoring Jarak dengan Sensor Ultrasonik**  
   Menampilkan jarak yang terukur oleh sensor ultrasonik HC-SR04 pada dashboard online.
-- [x] **Kendali LED melalui Aplikasi Mobile**  
+- [x] **✅ Kendali LED melalui Aplikasi Mobile**  
   Menggunakan ESP32 untuk mengontrol LED dari jarak jauh melalui aplikasi IoT sederhana.
 
 ---
