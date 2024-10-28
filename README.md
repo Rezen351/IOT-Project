@@ -7,9 +7,9 @@ Selamat datang di **IOT-Project**! 🎉 Repository ini berisi modul pembelajaran
 ---
 
 ## 🔎 Daftar Isi
-- [Tentang Repository](#tentang-repository)
-- [Modul Pembelajaran](#modul-pembelajaran)
-- [Roadmap Project](#roadmap-project)
+- [Tentang Repository](#-tentang-repository)
+- [Modul Pembelajaran](#-modul-pembelajaran)
+- [Roadmap Project](#-roadmap-project)
   - [📋 Weekly Activity](#weekly-activity)
   - [🔄 Project yang Sedang Dikerjakan](#project-yang-sedang-dikerjakan)
   - [✅ Project yang Selesai Dikerjakan](#project-yang-selesai-dikerjakan)
