@@ -5,7 +5,7 @@ Ini adalah gambaran secara umum modul 1 mengenai rangkaian dasar isolation shiel
 
 ## 🔍 Tentang Optocoupler untuk Digital Input dan Output di ESP32
 
-![Optocoupler](images/optocoupler.gif)  <!-- Ganti dengan path gambar yang sesuai -->
+![Optocoupler](optocoupler.gif)  <!-- Ganti dengan path gambar yang sesuai -->
 
 Optocoupler? Yap, komponen ini adalah pahlawan diam-diam dalam dunia elektronik, terutama ketika kita perlu "mengisolasi" satu sirkuit dari sirkuit lainnya. Bayangkan, kamu punya dua perangkat yang perlu 'ngobrol' tapi gak mau saling mengganggu. Nah, di sinilah optocoupler beraksi!
 
