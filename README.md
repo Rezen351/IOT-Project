@@ -24,7 +24,7 @@ Repository ini dirancang untuk membantu siapa saja belajar elektronik dan IoT, m
 ## 📝 Modul Pembelajaran
 | 📘 Modul | 📄 Deskripsi | 🎓 Tingkat |
 |----------|-------------|------------|
-| [1. Dasar Elektronika](modules/README.md) | Memahami konsep dasar seperti tegangan, arus, dan hukum Ohm | Pemula |
+| [1. Digital I/O isolation(modules/Modul 1 Rangkaian Shield) | Memahami konsep dasar seperti tegangan, arus, dan hukum Ohm | Pemula |
 
 ---
 
