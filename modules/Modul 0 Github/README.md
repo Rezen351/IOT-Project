@@ -2,7 +2,7 @@
 
 GitHub itu seru banget buat kamu yang mau ngoding bareng-bareng atau mau nge-track perubahan kodingan dengan rapi. Ini semacam social media-nya developer! Di sini kamu bisa bareng-bareng bikin project, bagi-bagi kode, atau bahkan gabung buat kontribusi ke project open-source.
 
-> **Info** Tugas dan kerjaan akan di infoin di bagian [Kerjaan Modul](#-kejaan-modul).
+> **Info** Tugas dan kerjaan akan di infoin di bagian [Kerjaan Modul](#-kerjaan-modul).
 
 ## 🔥 Dasar-Dasar GitHub yang Perlu Kamu Tahu
 
