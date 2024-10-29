@@ -25,7 +25,7 @@ Repository ini dirancang untuk membantu siapa saja belajar elektronik dan IoT, m
 ## 📝 Modul Pembelajaran
 | 📘 Modul | 📄 Deskripsi | 🎓 Tingkat |
 |----------|-------------|------------|
-| [o. Github ](https://github.com/Rezen351/IOT-Project/tree/main/modules/Modul%0%Github) | Memahami konsep Isolation Shield Untuk Microcontroller | Pemula |
+| [0. Github ](https://github.com/Rezen351/IOT-Project/tree/main/modules/Modul%200%20Github) | Memahami konsep Isolation Shield Untuk Microcontroller | Pemula |
 | [1. Digital I/O isolation](https://github.com/Rezen351/IOT-Project/tree/main/modules/Modul%201%20Rangkaian%20Shield) | Memahami konsep Isolation Shield Untuk Microcontroller | Pemula |
 
 ---
