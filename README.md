@@ -25,6 +25,7 @@ Repository ini dirancang untuk membantu siapa saja belajar elektronik dan IoT, m
 ## 📝 Modul Pembelajaran
 | 📘 Modul | 📄 Deskripsi | 🎓 Tingkat |
 |----------|-------------|------------|
+| [o. Github ](https://github.com/Rezen351/IOT-Project/tree/main/modules/Modul%0%Github) | Memahami konsep Isolation Shield Untuk Microcontroller | Pemula |
 | [1. Digital I/O isolation](https://github.com/Rezen351/IOT-Project/tree/main/modules/Modul%201%20Rangkaian%20Shield) | Memahami konsep Isolation Shield Untuk Microcontroller | Pemula |
 
 ---
@@ -36,8 +37,9 @@ Setiap project mengikuti jadwal mingguan yang terstruktur untuk mempermudah peng
 
 | 📆 Minggu | 📝 Kegiatan                                       | 📌 Deskripsi                                                                                  | 🎯 Tujuan Akhir                                        |
 |-----------|---------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| 1         | 🔍 **Mencari Referensi**                          | Mengumpulkan informasi termasuk datasheet tentang komponen apa saja yang mau dipakai untuk membuat shield esp32               | Dapat membaca datasheet tiap komponen dan mengetahui cara bekerjanya          |
-| 2         | 🛠️ **Membuat Rangkaian di Breadboard**            | Membuat rangkaian dasar di breadboard untuk uji fungsi dasar setiap komponen.                | Rangkaian berfungsi dengan baik di breadboard.        |
+| 1        | 🔍 **Belajar Github**                          | Mempelajari cara penggunaan github dengan perintah perintah dasar               | Mampu memahami dan mempraktikan penggunaan github untuk keperluan kolaborasi dalam sebuah project          |
+| 2         | 🔍 **Mencari Referensi**                          | Mengumpulkan informasi termasuk datasheet tentang komponen apa saja yang mau dipakai untuk membuat shield esp32               | Dapat membaca datasheet tiap komponen dan tahu gimana cara kerjanya         |
+| 3         | 🛠️ **Membuat Rangkaian di Breadboard**            | Membuat rangkaian dasar di breadboard untuk uji fungsi dasar setiap komponen.                | Rangkaian berfungsi dengan baik di breadboard.        |
 
 
 ---
@@ -45,8 +47,8 @@ Setiap project mengikuti jadwal mingguan yang terstruktur untuk mempermudah peng
 > Catatan: Tahapan dapat disesuaikan dengan kebutuhan dan kompleksitas project. Evaluasi mingguan dilakukan untuk memastikan progres tetap sesuai jadwal.
 
 ### 🔄 Project yang Sedang Dikerjakan
-- **🔄 Membuat rangkaian dasar di breadboard**  
-  Tahap: Pembuatan sistem relay di rangkaian menggunakan optocoupler.
+- **🔄 Mempelajari Penggunaan Github**  
+  Tahap: Mempelajari penggunaan github dengan perintah perintah dasar untuk mempermudahkan pekerjaan kedepannya.
 
 ### ✅ Project yang Selesai Dikerjakan
 
