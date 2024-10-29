@@ -2,6 +2,8 @@
 
 GitHub itu seru banget buat kamu yang mau ngoding bareng-bareng atau mau nge-track perubahan kodingan dengan rapi. Ini semacam social media-nya developer! Di sini kamu bisa bareng-bareng bikin project, bagi-bagi kode, atau bahkan gabung buat kontribusi ke project open-source.
 
+> **Info** Tugas dan kerjaan akan di infoin di bagian [Kerjaan Modul](#-Kejaan-Modul).
+
 ## 🔥 Dasar-Dasar GitHub yang Perlu Kamu Tahu
 
 1. **Repo (Repository)**: Tempat kita simpen semua kode + sejarah perubahannya. Anggap aja ini kayak folder project kamu tapi bisa diakses online.
@@ -78,5 +80,11 @@ Sistem Versi yang Teratur: Semua perubahan bisa dilacak, jadi nggak takut kode h
 Otomatisasi dengan GitHub Actions: Dari testing sampai deploy bisa otomatis, tinggal setup aja!
 Dukungan Open Source: Buat kamu yang mau share project ke dunia atau kontribusi di project keren lainnya.
 Nah, itu dia dasar-dasar GitHub yang wajib kamu tau! Semoga bisa langsung dipraktekin buat project seru kamu! 🎉
+
+---
+
+## 📝 Kerjaan Modul
+*Kerjaan dan tugas bakal dikasih disini ya...*
+
 
 ---
